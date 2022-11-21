@@ -1,4 +1,4 @@
-# MyBakeringSite
+# MyBakering
 
 **Privacy Policy**
 
